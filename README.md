@@ -28,8 +28,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: (https://www.frontendmentor.io/solutions/perfil-de-links-sociais-mJLJuwmnY5)
+- URL do site ativo:(https://janainammeira.github.io/FrontEnd-Mentor---Perfil-de-links-sociais/)
 
 ## Meu processo
 
@@ -43,9 +43,9 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Site - [Adicione seu nome aqui](https://www.your-site.com)
-- Mentor Frontend - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Site - [Janainammeira](https://janainammeira.github.io/FrontEnd-Mentor---Perfil-de-links-sociais/)
+- Mentor Frontend - [@JanainaMmeira](https://www.frontendmentor.io/profile/JanainaMmeira)
+
 
 ## Licença
 
