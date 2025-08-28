@@ -1,53 +1,24 @@
-# Frontend Mentor - Perfil de redes sociais
-
-Esta é uma solução para o [Desafio de perfil de links sociais no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). 
-
-## Índice
-
-- [Visão geral](#visão-geral)
-- [O desafio](#o-desafio)
-- [Captura de tela](#captura-de-tela)
-- [Links](#links)
-- [Meu processo](#meu-processo)
-- [Construído com](#construído-com)
-- [Autor](#autor)
+<h1 align="center">Perfil de Links Sociais 🔗</h1>
 
 
-## Visão geral
+<div align="center">
+<img width="583" height="931" alt="image" src="https://github.com/user-attachments/assets/f767b5a7-96ee-494b-a8dc-7bc8e153a355" />
+</div>
 
-### O desafio
+Esta é uma solução para o Desafio de perfil de links sociais no Frontend Mentor. O objetivo foi criar uma página de perfil de links sociais responsiva, focando na interatividade dos elementos.
 
-Os usuários devem ser capazes de:
+<h2 align="center">💡 Sobre o Projeto </h2>
 
-- Ver estados de foco e foco para todos os elementos interativos na página
+O projeto consiste em replicar com fidelidade o design de um perfil de links sociais. O desafio principal foi garantir que todos os elementos interativos na página, como os botões de links, apresentassem estados de foco (focus) e hover, proporcionando uma experiência de usuário intuitiva.
 
-### Captura da tela
-![Captura de tela 2025-03-09 153326](https://github.com/user-attachments/assets/cad524f7-0eb0-48ab-9a33-48f288fff5dc)
-![Captura de tela 2025-03-09 153514](https://github.com/user-attachments/assets/d3c8b9f4-2710-4738-b72f-eb2f756958ea)
+<h2 align="center">🛠 Tecnologias Utilizadas </h2>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,github" />
+</div>
 
-### Links
+<h2 align="center">📜 Licença </h2>
 
-- URL da solução: (https://www.frontendmentor.io/solutions/perfil-de-links-sociais-mJLJuwmnY5)
-- URL do site ativo:(https://janainammeira.github.io/FrontEnd-Mentor---Perfil-de-links-sociais/)
+Este projeto está sob a licença MIT.
+Sinta-se à vontade para usar, aprender e adaptar, dando os devidos créditos.
 
-## Meu processo
-
-### Construído com:
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-
-## Autor
-
-- Site - [Janainammeira](https://janainammeira.github.io/FrontEnd-Mentor---Perfil-de-links-sociais/)
-- Mentor Frontend - [@JanainaMmeira](https://www.frontendmentor.io/profile/JanainaMmeira)
-
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
- 
